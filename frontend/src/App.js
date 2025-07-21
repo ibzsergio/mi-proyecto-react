@@ -44,6 +44,8 @@ Entrar
 </button>
 {message && <div className="alert alert-info mt-3">{message}</div>}
 </motion.div>
+
+<h1>Hola, este es mi nuevo cambio 21/07/2025</h1>
 </div>
 );
 }
